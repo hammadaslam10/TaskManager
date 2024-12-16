@@ -94,13 +94,15 @@ project-root/
    npm install
    ```
 2. **Set Up Environment Variables**
-   Create a `.env` file in the root of the project with the following:
+   Create a `./Secret.env in config/` file in the root of the project with the following:
+   
    ```env
-  PORT=4000
-  
-  DB_URI=mongodb://localhost:27017/MyCo
+   PORT=4000
+ 
+    DB_URI=mongodb://localhost:27017/MyCo
+
    ```
-3. **Run the Backend Server**
+4. **Run the Backend Server**
    ```bash
    npm run dev
    ```
