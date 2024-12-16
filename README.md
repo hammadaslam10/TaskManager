@@ -149,7 +149,7 @@ The following environment variables are required:
 
 | **Variable**       | **Description**                           |
 |-------------------|-------------------------------------------|
-| `PORT`             | Port for the backend server (default 5000)|
+| `PORT`             | Port for the backend server |
 | `DB_URI`           | MongoDB connection string                 |
 | `NEXT_PUBLIC_API_URL` | The URL of the backend API             |
 
