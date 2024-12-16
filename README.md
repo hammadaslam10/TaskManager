@@ -96,14 +96,14 @@ project-root/
 2. **Set Up Environment Variables**
    Create a `.env` file in the root of the project with the following:
    ```env
-   PORT=5000
-   DB_URI=mongodb://localhost:27017/taskmanagement
+  PORT=4000
+  DB_URI=mongodb://localhost:27017/MyCo
    ```
 3. **Run the Backend Server**
    ```bash
-   npm run server
+   npm run dev
    ```
-   The backend will be available at **http://localhost:5000**.
+   The backend will be available at **http://localhost:4000**.
 
 ### 📦 **Seed Data**
 To seed the database with sample tasks, use the following command:
