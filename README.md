@@ -97,6 +97,7 @@ project-root/
    Create a `.env` file in the root of the project with the following:
    ```env
   PORT=4000
+  
   DB_URI=mongodb://localhost:27017/MyCo
    ```
 3. **Run the Backend Server**
@@ -131,7 +132,7 @@ This will create **40 sample tasks** in the MongoDB database.
 2. **Set Up Environment Variables**
    Create a `.env.local` file in the root of the **src** directory with the following:
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:5000
+   NEXT_PUBLIC_API_URL=http://localhost:4000
    ```
 3. **Run the Frontend Server**
    ```bash
