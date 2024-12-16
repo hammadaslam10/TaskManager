@@ -1,6 +1,6 @@
 # Task Management System
 
-This project is a **Task Management System** that allows users to create, read, update, and delete (CRUD) tasks. The system includes both **backend** and **frontend** components. The backend is built using **Node.js, Express.js, and MongoDB**, while the frontend is built with **Next.js**.
+This project is a **Task Management System** that allows users to create, read, update, and delete (CRUD) tasks. The system includes both **backend** and **frontend** components. The backend is built using **Node.js, Express.js, and MongoDB**, while the frontend is built with **Next.js 14.1**.
 
 ## 📋 **Table of Contents**
 - [Project Overview](#project-overview)
