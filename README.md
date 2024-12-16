@@ -187,20 +187,7 @@ PUT /api/tasks/:id
 DELETE /api/tasks/:id
 ```
 
----
 
-## 🛠️ **Possible Enhancements**
-- **User Authentication**: Add user authentication and restrict access to the task management system.
-- **Pagination**: Add server-side pagination for large task lists.
-- **Advanced Filtering**: Add support for advanced task filtering by multiple fields.
-- **Notifications**: Add notifications for task due dates.
 
----
 
-## 📞 **Support**
-If you encounter any issues, please create an issue in the repository or contact the developer.
-
----
-
-**Enjoy Managing Your Tasks!** 🚀
 
